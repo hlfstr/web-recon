@@ -21,5 +21,12 @@ The project involves:
 1. hlfstr.com
 2. fuckyouits.me
 
+## Viewing the Sites
+
+The reconstructed sites are available at:
+- Main Index: https://hlfstr.github.io/web-recon/
+- HLFSTR.com: https://hlfstr.github.io/web-recon/hlfstr/
+- FuckYouITS.me: https://hlfstr.github.io/web-recon/fuckyouits/
+
 ## Legal Notice
 This reconstruction is done for educational and archival purposes by the trademark owner of HLFSTR. All content is retrieved from publicly available archives.
